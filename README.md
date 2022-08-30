@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Hello I'm Moises  
-Full Stack Developer 👨‍💻
+<h1 align="left">Hello I'm Moises<h1/>
+<h2 align="left">Full Stack Developer 👨‍💻<h2/>
 
 [![](https://img.shields.io/badge/LinkedIn-Moises-blue)](https://www.linkedin.com/in/moises-duran-del-razo/)
 [![](https://img.shields.io/badge/Gmail-Moises%40gmail.com-red)](mailto:moises6737@gmail.com)
@@ -20,7 +20,7 @@ const Moises = {
   tools: [React, ReactNative, Redux, Node, Styled-Components, Jest, Formik, BootStrap,Heroku, PosgreSQL]
 }
 ```
-[![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesdurandelrazo)](https://github.com/moisesdurandelrazo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/moisesdurandelrazo/github-readme-stats) [![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesdurandelrazo)](https://github.com/moisesdurandelrazo/github-readme-stats)
 
 
 <!--
