@@ -10,6 +10,9 @@ Full Stack Developer 👨‍💻
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
 ### I'm passionate Fullstack developer 👋
+
+📄 I've enjoyed many engineering positions throughout my career as a mechanical engineer after nine years in close contact with data science I decided to become a developer, pushing myself in this exciting career, giving more than one hundred percent each day in my continued improvement, and amplifying my performance in my new futures teams.
+
 ```js
 const Moises = {
   pronouns: "he" | "him",
